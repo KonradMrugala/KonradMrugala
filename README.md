@@ -72,8 +72,8 @@ I am a software engineer with a strong foundation in programming and databases. 
 ---
 
 ### Let's Connect:
-<!-- - **LinkedIn:** [Link to be added] -->
 - **Email:** xkonradex@gmail.com
+- **LinkedIn:** linkedin.com/in/konrad-mrugala
 
 
 
